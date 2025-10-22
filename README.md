@@ -1,3 +1,3 @@
 "# generateCaptcha" 
 
-<img src="captcha.php" onclick="this.src='captcha.php?'+Math.random()">
+&lt;img src="captcha.php" onclick="this.src='captcha.php?'+Math.random()"&gt;
